@@ -38,3 +38,4 @@ end
 gem 'devise'
 gem 'rack-openid'
 gem 'devise_openid_authenticatable'
+gem 'mongo_mapper'
